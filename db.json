@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/black-polo-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Black Polo",
       "type": "Polo",
       "price": 250,
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/blue-polo-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Blue Polo",
       "type": "Polo",
       "price": 350,
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/pink-polo-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Pink Polo",
       "type": "Polo",
       "price": 350,
@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/black-hoodie-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Black Hoodie",
       "type": "Hoodie",
       "price": 500,
@@ -46,7 +46,7 @@
     },
     {
       "id": 5,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/green-polo-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Green Polo",
       "type": "Polo",
       "price": 250,
@@ -57,7 +57,7 @@
     },
     {
       "id": 6,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/green-polo-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Green Polo",
       "type": "Polo",
       "price": 350,
@@ -68,7 +68,7 @@
     },
     {
       "id": 7,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/blue-hoodie-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Blue Hoodie",
       "type": "Hoodie",
       "price": 500,
@@ -79,7 +79,7 @@
     },
     {
       "id": 8,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/black-hoodie-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Black Hoodie",
       "type": "Hoodie",
       "price": 500,
@@ -90,7 +90,7 @@
     },
     {
       "id": 9,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/blue-round-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Blue Round",
       "type": "Basic",
       "price": 300,
@@ -101,7 +101,7 @@
     },
     {
       "id": 10,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/red-round-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Red Round",
       "type": "Basic",
       "price": 300,
@@ -112,7 +112,7 @@
     },
     {
       "id": 11,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/grey-round-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Grey Round",
       "type": "Basic",
       "price": 300,
@@ -123,7 +123,7 @@
     },
     {
       "id": 12,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/purple-hoodie-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Purple Hoodie",
       "type": "Hoodie",
       "price": 500,
@@ -134,7 +134,7 @@
     },
     {
       "id": 13,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/grey-round-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Grey Round",
       "type": "Basic",
       "price": 300,
@@ -145,7 +145,7 @@
     },
     {
       "id": 14,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/white-round-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "White Round",
       "type": "Basic",
       "price": 300,
@@ -156,7 +156,7 @@
     },
     {
       "id": 15,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/black-round-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Black Round",
       "type": "Basic",
       "price": 300,
@@ -167,7 +167,7 @@
     },
     {
       "id": 16,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/purple-round-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Purple Round",
       "type": "Basic",
       "price": 300,
@@ -178,7 +178,7 @@
     },
     {
       "id": 17,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/white-round-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "White Round",
       "type": "Basic",
       "price": 300,
@@ -189,7 +189,7 @@
     },
     {
       "id": 18,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/blue-round-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Blue Round",
       "type": "Basic",
       "price": 300,
@@ -200,7 +200,7 @@
     },
     {
       "id": 19,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/yellow-hoodie-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Yellow Hoodie",
       "type": "Hoodie",
       "price": 500,
@@ -211,7 +211,7 @@
     },
     {
       "id": 20,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/white-polo-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "White Polo",
       "type": "Polo",
       "price": 350,
@@ -222,7 +222,7 @@
     },
     {
       "id": 21,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/red-polo-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Red Polo",
       "type": "Polo",
       "price": 250,
@@ -233,7 +233,7 @@
     },
     {
       "id": 22,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/blue-hoodie-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Blue Hoodie",
       "type": "Hoodie",
       "price": 500,
@@ -244,7 +244,7 @@
     },
     {
       "id": 23,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/grey-hoodie-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Grey Hoodie",
       "type": "Hoodie",
       "price": 500,
@@ -255,7 +255,7 @@
     },
     {
       "id": 24,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/grey-polo-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Grey Polo",
       "type": "Polo",
       "price": 300,
@@ -266,7 +266,7 @@
     },
     {
       "id": 25,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/red-hoodie-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Red Hoodie",
       "type": "Hoodie",
       "price": 300,
@@ -277,7 +277,7 @@
     },
     {
       "id": 26,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/white-polo-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "White Polo",
       "type": "Polo",
       "price": 300,
@@ -288,7 +288,7 @@
     },
     {
       "id": 27,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/white-hoodie-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "White Hoodie",
       "type": "Hoodie",
       "price": 500,
@@ -299,7 +299,7 @@
     },
     {
       "id": 28,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/grey-round-men.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Grey Round",
       "type": "Basic",
       "price": 300,
@@ -310,7 +310,7 @@
     },
     {
       "id": 29,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/black-round-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Black Round",
       "type": "Basic",
       "price": 300,
@@ -321,7 +321,7 @@
     },
     {
       "id": 30,
-      "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/black-polo-women.png",
+      "imageURL": "https://placehold.co/400x400",
       "name": "Black Polo",
       "type": "Polo",
       "price": 300,
