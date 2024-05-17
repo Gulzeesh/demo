@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
       "imageURL": "https://geektrust.s3.ap-southeast-1.amazonaws.com/coding-problems/shopping-cart/black-polo-men.png",
@@ -330,12 +330,5 @@
       "gender": "Women",
       "quantity": 4
     }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
